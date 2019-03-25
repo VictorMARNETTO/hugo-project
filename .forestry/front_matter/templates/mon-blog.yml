@@ -25,5 +25,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- hugo/content/post/test.md
