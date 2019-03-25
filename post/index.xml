@@ -101,14 +101,5 @@
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Philippe</title>
-      <link>https://hugo-victor.netlify.com/post/test/</link>
-      <pubDate>Sun, 24 Mar 2019 23:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-victor.netlify.com/post/test/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</description>
-    </item>
-    
   </channel>
 </rss>
