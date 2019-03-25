@@ -1,0 +1,27 @@
+---
+label: mon blog
+hide_body: false
+fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: writer
+  label: Writer
+  type: text
+  hidden: false
+  default: ''
+- type: file
+  name: image
+  label: image
+- name: weight
+  label: Weight
+  type: text
+  hidden: false
+  default: ''
